@@ -7,7 +7,7 @@ I made it because my right Alt key is already binded to opening up my ai tools, 
 
 <img width="955" height="547" alt="image" src="https://github.com/user-attachments/assets/4cb87a67-ae63-4603-988f-a2c10b2d5dca" />
 <img width="955" height="502" alt="image" src="https://github.com/user-attachments/assets/a3724248-f91e-46e2-956c-6f301384b34a" />
-# BOM
 
+# BOM
 | Material | PLA Plastic |
 | :--- | :--- |
